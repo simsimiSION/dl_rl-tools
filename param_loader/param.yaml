@@ -1,0 +1,5 @@
+model:
+  n_state: 2
+  n_hidden: 4
+  n_phi: 2
+  n_delta_x: 1
